@@ -19,7 +19,9 @@ function pressIt() {
 }
 
 function submitIt() {
-  
+  $().on('', function(){
+    alert('Your form is going to be submitted now.');
+  });
 }
 
 $(document).ready(function(){
