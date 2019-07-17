@@ -11,7 +11,9 @@ function frameIt() {
 }
 
 function pressIt() {
-  
+  $().on('', function(){
+    
+  });
 }
 
 $(document).ready(function(){
